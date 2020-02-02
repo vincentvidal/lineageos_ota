@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": 1580850457,
+      "filename": "lineage-17.1-20200204-UNOFFICIAL-cepheus.zip",
+      "id": "fe18e464c01777a3950c3fc898bc0b6d",
+      "romtype": "UNOFFICIAL",
+      "size": 1072828484,
+      "url": "https://github.com/vincentvidal/lineageos_ota/releases/download/v1/lineage-17.1-20200204-UNOFFICIAL-cepheus.zip",
+      "version": "17.1"
+    }
+  ]
+}
