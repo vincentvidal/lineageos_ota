@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1587981239,
-      "filename": "lineage-17.1-20200427-UNOFFICIAL-cepheus.zip",
-      "id": "c1c896313b6084feaf811acc7c77d103",
+      "datetime": 1589631548,
+      "filename": "lineage-17.1-20200516-UNOFFICIAL-cepheus.zip",
+      "id": "11458be6c0f0543a71aa2e770a34b7a9",
       "romtype": "UNOFFICIAL",
-      "size": 1063921055,
-      "url": "https://github.com/vincentvidal/iode_ota/releases/download/v1/lineage-17.1-20200427-UNOFFICIAL-cepheus.zip",
+      "size": 1067675746,
+      "url": "https://github.com/vincentvidal/iode_ota/releases/download/v1/lineage-17.1-20200516-UNOFFICIAL-cepheus.zip",
       "version": "17.1"
     }
   ]
